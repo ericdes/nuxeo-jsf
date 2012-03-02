@@ -1,6 +1,6 @@
 <body
       xmlns:f="http://java.sun.com/jsf/core" xmlns:nxthemes="http://nuxeo.org/nxthemes">
-  <f:view>
+  <f:view id="element-renderer-output">
     <nxthemes:accesskeys />
     <table summary="" cellpadding="0" cellspacing="0" border="0" style="height:300px;width:100%;">
   <tr><td valign="top" style="width:100px;"><nxthemes:fragment uid="1" engine="default" mode="mode" /></td></tr>
